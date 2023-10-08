@@ -1,0 +1,8 @@
+.suggestions{
+    min-height: 100px;
+    overflow-y: scroll;
+}
+
+.select-option {
+    color: black;
+  }

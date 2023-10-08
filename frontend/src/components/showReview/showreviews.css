@@ -1,0 +1,24 @@
+.data{
+    width: 100%;
+    min-height: 100px;
+    border: 1px solid white;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+    color: black;
+}
+
+.item{
+    font-size: 16px;
+    font-weight: 600;
+    opacity: 80%;
+}
+
+.value{
+    font-size: 12px;
+    opacity: 80%;
+}
+
+.suggestion{
+    font-size: 12px;
+    min-height: 20px;
+}
