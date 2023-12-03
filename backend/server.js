@@ -10,7 +10,7 @@ const port = 4040;     // I set port 4040
 const db = mysql.createConnection({
   host: 'localhost',
   user: 'root',
-  password: 'Shinav@5555',
+  password: 'C9',
   database: 'reviews_data',
 });
 
